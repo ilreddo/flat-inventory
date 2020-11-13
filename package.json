@@ -40,7 +40,7 @@
     "lodash": "^4.17.4",
     "mongoose": "^4.13.17",
     "morgan": "^1.9.1",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7",
     "pmx": "^1.6.7",
     "request-promise-native": "^1.0.5",
